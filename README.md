@@ -1,4 +1,8 @@
-👋🏻 Hey! My name is Will. I am a software/platform engineer with a passion for developer experience.
+![stats](https://github-readme-stats.vercel.app/api?username=willswire&show_icons=true&locale=en)
+
+👋🏻 Hey! My name is Will. 
+
+👨🏻‍💻 I'm a software/platform engineer with a passion for developer experience.
 
 🔭 I’m currently working on [AFI Explorer](https://afiexplorer.com)
 
@@ -17,5 +21,3 @@
 📄 Learn about my experiences [https://assets.willswire.com/resume.pdf](https://assets.willswire.com/resume.pdf)
 
 🎸 Fun fact **I play bass**
-
-![stats](https://github-readme-stats.vercel.app/api?username=willswire&show_icons=true&locale=en)
