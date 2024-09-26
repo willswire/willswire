@@ -16,8 +16,4 @@
 
 💬 Ask me about **software development in the military**
 
-📫 Send me a message at **w_walker@icloud.com**
-
-📄 Learn about my experiences [https://assets.willswire.com/resume.pdf](https://assets.willswire.com/resume.pdf)
-
 🎸 Fun fact **I play bass**
