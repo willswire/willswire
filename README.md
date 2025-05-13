@@ -10,4 +10,4 @@
 
 📝 I try to write articles on [https://willswire.com](https://willswire.com)
 
-🎸 Take a listen to some of my [music]((https://linktr.ee/willwalkermusic)
+🎸 Take a listen to some of my [music](https://linktr.ee/willwalkermusic)
