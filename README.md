@@ -10,6 +10,4 @@
 
 📝 I try to write articles on [https://willswire.com](https://willswire.com)
 
-💬 Ask me about **software development in the military**
-
-🎸 On some Sunday mornings **I play bass** 
+🎸 Take a listen to some of my [music]((https://linktr.ee/willwalkermusic)
