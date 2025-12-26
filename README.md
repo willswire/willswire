@@ -1,5 +1,3 @@
-![stats](https://github-readme-stats.vercel.app/api?username=willswire&show_icons=true&locale=en)
-
 👋🏻 Hey! My name is Will
 
 👨🏻‍💻 I'm a platform engineer with a passion for modernizing legacy applications
