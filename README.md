@@ -4,7 +4,7 @@
 
 🔭 In my spare time, I work on [AFI Explorer](https://afiexplorer.com)
 
-🌱 I’m currently learning **how to become more like Christ**
+🌱 I’m currently learning **how to trust in Christ**
 
 📝 I try to write articles on [https://willswire.com](https://willswire.com)
 
